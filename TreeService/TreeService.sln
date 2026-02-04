@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreeService.Domain", "TreeS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreeService.Contracts", "TreeService.Contracts\TreeService.Contracts.csproj", "{67EA6F4D-AF4F-437D-8DCC-190936CEBC81}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreeService.Persistence.SQLite", "TreeService.Persistence.SQLite\TreeService.Persistence.SQLite.csproj", "{756E1345-380B-4774-A273-1752EC1FD560}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{67EA6F4D-AF4F-437D-8DCC-190936CEBC81}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{67EA6F4D-AF4F-437D-8DCC-190936CEBC81}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{67EA6F4D-AF4F-437D-8DCC-190936CEBC81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{756E1345-380B-4774-A273-1752EC1FD560}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{756E1345-380B-4774-A273-1752EC1FD560}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{756E1345-380B-4774-A273-1752EC1FD560}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{756E1345-380B-4774-A273-1752EC1FD560}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

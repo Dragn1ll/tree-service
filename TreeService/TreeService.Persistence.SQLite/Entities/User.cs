@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace TreeService.Domain.Entities;
+namespace TreeService.Persistence.SQLite.Entities;
 
 public class User
 {
