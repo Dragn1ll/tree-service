@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreeService.Api", "TreeServ
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreeService.Domain", "TreeService.Domain\TreeService.Domain.csproj", "{BE0263FC-AF1C-4FC3-B5D1-BC821084A6B6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreeService.Contracts", "TreeService.Contracts\TreeService.Contracts.csproj", "{67EA6F4D-AF4F-437D-8DCC-190936CEBC81}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{BE0263FC-AF1C-4FC3-B5D1-BC821084A6B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BE0263FC-AF1C-4FC3-B5D1-BC821084A6B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BE0263FC-AF1C-4FC3-B5D1-BC821084A6B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67EA6F4D-AF4F-437D-8DCC-190936CEBC81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67EA6F4D-AF4F-437D-8DCC-190936CEBC81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67EA6F4D-AF4F-437D-8DCC-190936CEBC81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67EA6F4D-AF4F-437D-8DCC-190936CEBC81}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
