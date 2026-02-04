@@ -12,7 +12,7 @@ public class TreeNode
     
     public string? Description { get; set; }
     
-    public int? ParentId { get; set; }
+    public Guid? ParentId { get; set; }
     public TreeNode? Parent { get; set; }
     
     public IList<TreeNode> Children { get; set; } = [];

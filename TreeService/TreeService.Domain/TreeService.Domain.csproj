@@ -6,4 +6,8 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\TreeService.Contracts\TreeService.Contracts.csproj" />
+    </ItemGroup>
+
 </Project>
