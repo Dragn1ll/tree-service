@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreeService.Api", "TreeService.Api\TreeService.Api.csproj", "{678AC63B-252E-4BB0-B67D-8BD8B061CC01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreeService.Domain", "TreeService.Domain\TreeService.Domain.csproj", "{BE0263FC-AF1C-4FC3-B5D1-BC821084A6B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{678AC63B-252E-4BB0-B67D-8BD8B061CC01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{678AC63B-252E-4BB0-B67D-8BD8B061CC01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{678AC63B-252E-4BB0-B67D-8BD8B061CC01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{678AC63B-252E-4BB0-B67D-8BD8B061CC01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE0263FC-AF1C-4FC3-B5D1-BC821084A6B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE0263FC-AF1C-4FC3-B5D1-BC821084A6B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE0263FC-AF1C-4FC3-B5D1-BC821084A6B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE0263FC-AF1C-4FC3-B5D1-BC821084A6B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
