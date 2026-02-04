@@ -8,6 +8,7 @@
 
     <ItemGroup>
       <ProjectReference Include="..\TreeService.Contracts\TreeService.Contracts.csproj" />
+      <ProjectReference Include="..\TreeService.Persistence.SQLite\TreeService.Persistence.SQLite.csproj" />
     </ItemGroup>
 
 </Project>
